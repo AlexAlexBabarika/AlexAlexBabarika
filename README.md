@@ -1,12 +1,53 @@
-- 👋 Hi, I’m @AlexAlexBabarika
-- 👀 I’m interested in Machine Learning, Finance, UX/UI Design, and game development (C# + Unity)
-- 🌱 I’m currently learning low-level programming, machine learning, and Unity Engine
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me alexalexbabarika@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hate coding but I still do it.
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+</div>
 
-<!---
-AlexAlexBabarika/AlexAlexBabarika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h1 align="left">Hi! 👋</h1>
+
+###
+
+<p align="left">My name is Aleksandr Babarika. I'm a 1st year Computer Science & Management with a Year in Industry student at King's College London 🎓<br>I'm currently interested in Deep Learning, Data Science, and Applied Maths for ML and Finance</p>
+
+###
+
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">🎮 Unity + C#: I built a few games using unity and a framework for creating text quest<br>🐍 Python: I extensively used Python and libraries such as Pandas, Scikit-learn, and SciPy to analyze my friends' business data, which significantly helped them.<br>☕️ Java: Java was my primary language during my first year at university. I built various projects using it, but unfortunately, I cannot publish them on GitHub.<br>🦀 Rust: I recently started taking Rust courses and was fascinated by how comfortable and efficient it is compared to languages like C and C++. I'm currently developing a custom math library that would use SIMD and GPU acceleration for immense speed. And if this project proves to be successful, I'll build a Machine/Deep Learning library in Rust.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/alexAlexBabarika/alexAlexBabarika/output/snake.svg" alt="Snake animation" />
+
+###
