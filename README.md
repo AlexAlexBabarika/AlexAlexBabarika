@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Aleksandr Babarika. I'm a 1st year Computer Science & Management with a Year in Industry student at King's College London 🎓<br>I'm currently interested in Deep Learning, Data Science, and Applied Maths for ML and Finance</p>
+<p align="left">My name is Aleksandr Babarika. I'm a 2nd year Computer Science with a Year in Industry student (prev with management) at King's College London 🎓<br>I'm currently interested in Deep Learning, Data Science, and Applied Maths for ML and Finance (trading to be more precise)</p>
 
 ###
 
@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-    mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/django-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/django-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
