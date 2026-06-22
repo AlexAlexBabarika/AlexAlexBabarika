@@ -1,6 +1,3 @@
-<!-- Banner (optional) -->
-<!-- Add a custom banner here if you want -->
-
 <h1 align="center">Hi, I'm Aleksandr 👋</h1>
 <p align="center">
   🎓 Computer Science @ King's College London <br>
@@ -29,9 +26,20 @@
 
 ## 🚀 Featured Projects
 
-### 🎸 Neural Guitar Pitch Shifter
-Real-time pitch shifting using deep learning (PyTorch + DSP)  
-→ *[Add link]*
+<p align="center">
+  <img src="./banner.png" width="900" />
+</p>
+
+### 📊 OpenTrade
+
+A full-featured web application for **financial instrument analysis and strategy backtesting**.
+
+- ⚙️ Integrated Python-based indicator & backtesting engine  
+- 📈 Interactive charting with a custom **drawables system**  
+- 📐 Tools including long/short positions, AVP, and measurement ruler  
+- 🧠 Designed for rapid experimentation with trading strategies  
+
+→ [View on GitHub](https://github.com/AlexAlexBabarika/openTrade)
 
 ### 🧠 Static Typed Python Subset
 Experimental Python variant with static typing + bytecode transformation  
