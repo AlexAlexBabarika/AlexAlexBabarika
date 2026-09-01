@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aleksandr 👋</h1>
-<h2 align="center">https://aleksandr-babarika.vercel.app</h2>
+<h2 align="center">www.babarika.dev</h2>
 <p align="center">
   🎓 Computer Science BSc @ King's College London <br>
   🤖 Deep Learning • Data Science • Applied Maths (ML & Finance)
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/aleksandr-babarika/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
   </a>
-  <a href="mailto:alexalexbabarika@gmail.com">
+  <a href="mailto:aleksandr@babarika.dev">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" />
   </a>
 </div>
