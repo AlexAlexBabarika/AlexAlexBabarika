@@ -18,77 +18,10 @@
 
 ## 🧠 About Me
 
-- 🎓 2nd year CS student
+- 🎓 Final year CS student
 - 🔬 Interested in **Deep Learning, optimisations, and quantitative modelling**
 - 🎸 Exploring **machine learning for audio processing**
 - ⚙️ Enjoy low-level systems + high-level ML
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <img src="./banner.png" width="700" />
-</p>
-<p align="center">
-  <img src="./opentrade_backtesting.png" width="700" />
-</p>
-
-### 📊 OpenTrade
-
-A full-featured web application for **financial instrument analysis and strategy backtesting**.
-
-- ⚙️ Integrated Python-based indicator & backtesting engine
-- 📈 Interactive charting with a custom **drawables system**  
-- 📐 Tools including long/short positions, AVP, and measurement ruler  
-- 🧠 Designed for rapid experimentation with trading strategies  
-
-→ [View on GitHub](https://github.com/AlexAlexBabarika/openTrade)
-
----
-
-<p align="center">
-  <img src="./slowedxreverbed.jpeg" width="700" />
-</p>
-
-### 💿 Slowed x Reverb
-
-A web app for **listineng to slowed & reverved versions of your favourite songs**.
-
-- ⚙️ A full-feautured python-based audio manipulation engine
-- 📺 Supports downloads from YouTube
-
-→ [View on GitHub](https://github.com/AlexAlexBabarika/Slowed-Reverb-Site)
-
---- 
-
-<p align="center">
-  <img src="./f0encoder.png" width="700" />
-</p>
-
-### 🎼 Self-Supervised AI Pitch Shifter
-A self-supervised Conditional UNet for high-quality audio pitch shifting that preserves formants and content. Trained on speech and music datasets from Hugging Face, the model uses FiLM conditioning, F0-gated skip connections, and pitch perturbation augmentation to escape the DSP quality ceiling.
-- 🎚️ Preserves formants and harmonic content during pitch transformation
-- 🧠 Uses FiLM conditioning and F0-gated skip connections
-
-→ [View on GitHub](https://github.com/AlexAlexBabarika/SelfSupervised-Pitch-Shifter)
-
----
-
-<p align="center">
-  <img src="./pokertui.png" width="700" />
-</p>
-
-### ♠️♥️♦️♣️ Poker TUI
-A terminal Texas Hold'em game written in Rust. Play heads-up or full-ring against bots in a single binary, or connect to a headless server and play a table over the network
-- 🕹️ Play against AI opponents or your friends right in your terminal
-- 🤖 One pure, deterministic game engine. The bots don't use a trained neural network - they estimate hand equity with Monte Carlo rollouts and bluff using fold-equity math
-- 🌐 Connect to a headless server for multiplayer over the network
-- 💻 No graphics engine, no web framework — just Unicode box-drawing characters and ANSI colors
-
-→ [View on GitHub](https://github.com/AlexAlexBabarika/pokertui)
-
----
 
 ## 🛠️ Tech Stack
 
